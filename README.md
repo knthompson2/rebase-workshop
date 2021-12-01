@@ -28,7 +28,7 @@ RECOMMENDED MODULES
 - Nulla aliquet
 - Porttitor lacus
 
-Yeah, you know, just practicing here. 
+Yeah, you know, just practicing here.
 INSTALLATION
 ------------
 1. Eget duis at tellus at urna condimentum mattis pellentesque.
@@ -37,6 +37,8 @@ INSTALLATION
 4. Accumsan tortor posuere ac ut consequat semper.
 5. Id semper risus in hendrerit gravida rutrum.
 6. Vel facilisis volutpat est velit egestas dui id.
+
+IT'S JUST PRACTICE
 
 CONFIGURATION
 -------------
